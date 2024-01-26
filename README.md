@@ -11,7 +11,7 @@
 | ----------- | ----------- |----------- |----------- |----------- |----------- |
 | 26,106 | 13,105 |13,001 |4,966,875 |9,027,109 |6,927,591 |
 
-## Files
+## WeiboBot-24 Sample Files
 - [profiles.json](profiles.json) An example of profiles for humans and bots.
 - [tweets.json](tweets.json) An example of tweets of users.
 - [edges.json](edges.json) An example of social and interaction relationships, including following, followers, likes, retweets, and comments.
