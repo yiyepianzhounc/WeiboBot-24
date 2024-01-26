@@ -18,5 +18,5 @@
 - [labels.json](labels.json) An example of user labels: "1" is human, "0" is bot.
 
 ## How to download complete WeiboBot-24 dataset
-- WeiboBot-24 is available at [If accepted, will access]()。
+- WeiboBot-24 is available at google driver [If accepted, will access]()。
 - In order to protect the privacy of users, we have encrypted the user IDs in WeiboBot-24 Dataset.
