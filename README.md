@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- coming from "Towards Better Representation Learning for Evolutionary Social Bot Detection based on Multi-information Cross Fusion"
+- coming from "Enhanced Representation Learning for Evolutionary Social Bot Detection by Combining Heterogeneous Information Fusion and Multi-Scale Feature Filtration"
 - WeiboBot-24 contains data on tweets, profiles, social relationships, and interaction relationships of both bots and humans, collected from Sina Weibo（the first large-scale multimodal social bots dataset for Chinese social media）
 - The user may not violate the privacy protection policy of Sina Weibo.
 - Dataset Statistics
